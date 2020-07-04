@@ -1,0 +1,8 @@
+body{background-color: salmon;}
+	h1{font-size: 30px;color :#7BA46D;}
+h2{font-size: 15px;color :#966DA4;}
+.besar{font-size: 60px;color:#6D7BA4;}
+.sedang{font-size:40px;color:#A47B6D;}
+.balok{text-transform: uppercase;}
+.besar.balok{color: #EFF4ED;}
+h1 span{color:navy;}
